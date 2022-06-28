@@ -1,0 +1,16 @@
+
+[
+	
+	{
+		"file_version" : 2
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "WIUt7Nm1ULOiz/9yuIN/L0gflEz7shfKlHZhbZFEc6M=" ],
+		"path" : "behavior_packs/agent_gametest",
+		"uuid" : "00000000-0000-0000-0000-000000000000",
+		"version" : "0.0.0"
+	}
+]

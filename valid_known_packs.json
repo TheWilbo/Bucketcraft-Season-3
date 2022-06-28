@@ -1,0 +1,388 @@
+
+[
+	
+	{
+		"file_version" : 2
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "88S7AOgG3YYJmBB0/FnWKxyR6TQd4htQIPUy7lzal2I=" ],
+		"path" : "behavior_packs/BTCT-248206",
+		"uuid" : "4c3accd6-e628-49d8-9690-1007f4acb3d0",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "4HDxeNSScqguL0f69gn7xuczi1iyOK9fQSFLz8INJkk=" ],
+		"path" : "behavior_packs/disabled_experiment",
+		"uuid" : "ef052f16-d6a5-4b4b-a1d3-644091ddafdd",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : 
+		[
+			"SjVhMvoSejv0/qTusjjosIpB2nYGXxR/XZKGkS4u3WU=",
+			"KMrfJYC7sBjMAj8xqBV57tr0K9lRKDaJWlibvieuERo="
+		],
+		"path" : "behavior_packs/test_vanilla_1.12",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.12.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "FfPoPtf+NoF3qPaNF4HzNEmAJNW6UKMDAoB7PSRM0YU=" ],
+		"path" : "behavior_packs/experimental_caves_and_cliffs_internal",
+		"uuid" : "00c11a70-6e95-4a38-8ce7-ac6917b783de",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : 
+		[
+			"g4Zxe/pdaoX0lkIS4NR+R3iZ7rb7a/7ek5fK8jjjsbY=",
+			"ki1UNxlP+4A7nnOBIFB6qhUAoVSqe9BbjfZ0CJwr7NE="
+		],
+		"path" : "behavior_packs/bp",
+		"uuid" : "a9f9eead-b49d-4bfa-9c73-dd0be67c8f7e",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/experimental_vanilla_experiments",
+		"uuid" : "32b2f234-9e44-46fe-a600-54712c051d20",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "AIMfXEyeD1DDlhnRu0y9ta7qgZ2RjH+48GtEZwu4QXA=" ],
+		"path" : "behavior_packs/combo_ops_spec_ph_b",
+		"uuid" : "ea89656d-37e9-4c2f-a9ef-399977bca3fd",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : 
+		[
+			"rLtmxMDyvDwp4HyeZG+8HaPIawdGGmPJ4bkB1gemMoI=",
+			"dYyod/rHD2igzk47U+Lgvh8oJ6eISQk7pI+TFaldJVo=",
+			"jfAtZ6Vwia5m2BKk60KGDYouhWJzM8EtGUPmQGY7i7o="
+		],
+		"path" : "behavior_packs/experimental_caves_and_cliffs",
+		"uuid" : "8a779527-33b2-4dc6-abf4-947860a6d16d",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "resource_packs/chemistry",
+		"uuid" : "0fba4063-dba1-4281-9b89-ff9390653530",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/experimental_wild_update",
+		"uuid" : "032705f6-35dd-4761-ba1a-6f559a27cc29",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "KtzgbmIepCrWwJe6E+KLynT3cjC8OO7zx395ZaWauuQ=" ],
+		"path" : "resource_packs/player_heads_r",
+		"uuid" : "61f697c1-a4f2-4728-b77c-be767e2122a4",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.18.0",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.18.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_gametest",
+		"uuid" : "fd375b0a-4bdd-4572-9268-e55a79cf99d3",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "XzFP7CpSZwcPW0qeE/20A/EnqoIRka3ltN5iwI9t/WQ=" ],
+		"path" : "resource_packs/BTRP-232387",
+		"uuid" : "5e3ec748-2e85-4b0f-9c12-8cf7af842415",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : 
+		[
+			"LWh3rfiz6qtj5e8JVJNGHD7M2LHGYnXhU3TE4cHOr/I=",
+			"h3T6dsjPSlrIlNUYzXTTZxVqcxAFxJWZA5H9eVdrZek="
+		],
+		"path" : "behavior_packs/test_vanilla_1.11",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.11.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "resource_packs/vanilla",
+		"uuid" : "0575c61f-a5da-4b7f-9961-ffda2908861e",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.19.0",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.19.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.16.210",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.16.210"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.17.40",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.17.40"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "ZU3DgwPbozPkaSVndZGrdFM2okVwxAak81HNAHliOB0=" ],
+		"path" : "resource_packs/mob_heads_r",
+		"uuid" : "07653675-ce36-4253-a3ac-cbcea8f953ad",
+		"version" : "5.0.7"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.18.10",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.18.10"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.17.20",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.17.20"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.16.220",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.16.220"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/chemistry",
+		"uuid" : "6baf8b62-8948-4c99-bb1e-a0cb35dc4579",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.18.30",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.18.30"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.14",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.14.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.15",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.15.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.17.30",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.17.30"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.16",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.16.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.16.100",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.16.100"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.17.10",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.17.10"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.18.20",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.18.20"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.16.200",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.16.200"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_experimental",
+		"uuid" : "47db1a44-55b4-4d4e-aa0f-d5de6206a0fd",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/experimental_spectator",
+		"uuid" : "4bde72a9-966d-426b-8402-2a27965a27cb",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.17.0",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.17.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/agent_gametest",
+		"uuid" : "dba81c2c-f7b3-468e-990e-f31555ed6079",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "20EvYn8ZAGzZ6AoZUdBG2Sj7Xg2vrHd+yPf+VIcvufA=" ],
+		"path" : "behavior_packs/ops_2.1",
+		"uuid" : "f4299ff3-dd2f-42f8-b582-f929f62375c2",
+		"version" : "2.1.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "nGTo74+wr0iuLqJdDGWji83ZAruDXk4PdsVFh28TTgc=" ],
+		"path" : "behavior_packs/player_heads_b",
+		"uuid" : "6eb006bd-9de5-4bae-a596-8594708ccf99",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "Q31CoYsny6EsJfrQ4qyJ5VS5VMVjLD7Z/G/RJnX9rOI=" ],
+		"path" : "resource_packs/rp",
+		"uuid" : "f2d511e1-8bb8-4ae0-9293-3759ed4e94b6",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : 
+		[
+			"Y0qUUL9JC+8Osw+7FGljIr2W8XinzYb52N6JsxhTrkc=",
+			"SxbU+H7JuUfUEhX3PGWMTo1JmFqIqcZXdsMnWm5+ue0="
+		],
+		"path" : "behavior_packs/mob_heads_b",
+		"uuid" : "1ab70609-b5e5-4801-93b5-d4a61e23f857",
+		"version" : "5.0.7"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "GY8SucpoFUvxV26ccmeGm7zn5TwQtI1hXNdxFYcPhGc=" ],
+		"path" : "behavior_packs/mini_blocks_b",
+		"uuid" : "a1a02053-a78c-41f3-a410-aea21dee5973",
+		"version" : "4.0.11"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "KGlijqrcRcOtrCQTmXCL1ENNQ6OSln6ft1UC6ED6jbk=" ],
+		"path" : "resource_packs/combo_ops_spec_ph_r",
+		"uuid" : "db4d0d42-db05-41a0-9900-1623f24d9cf0",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "r3v0ugGJYFeP2qF0gKE3jKN33GJtgTasrmdAcZ8rEbM=" ],
+		"path" : "resource_packs/UniformIngots",
+		"uuid" : "9a807790-39e7-4a0c-9c25-42bcdac5cbc2",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "gaXIRTgL6XANeqGtzsBuOV5ewhIVFPQTP5G08gtphfw=" ],
+		"path" : "resource_packs/BTRP-276134.mcpack",
+		"uuid" : "d1a90a15-82bf-42df-b059-3b7a34002f8a",
+		"version" : "1.0.0"
+	}
+]
